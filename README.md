@@ -11,7 +11,7 @@ The game responds with:
 
 "Too low. Just like your grades."
 
-"Too high. Calm down, you're not Elon Musk."
+"Your guess is too high—like your parents’ hopes before you chose engineering"
 
 "Correct! Finally, some brain cells are working."
 
