@@ -25,7 +25,7 @@ else if(userfuckingnum < compnum){
     attempt++;
 }
 else{
-     document.getElementById("result").textContent = "voila ho ho mery christmas  mother fucker you guessed it right with ${attempt} ";
+     document.getElementById("result").textContent = "correct! finally some brain cells are working. You took this many ${attempt} attempts ";
      guess = true;
 }
 }
